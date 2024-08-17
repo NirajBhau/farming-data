@@ -8,4 +8,3 @@ keras
 plotly
 pyodbc
 twilio.rest
-Client
