@@ -1,10 +1,5 @@
 streamlit
-yfinance
-pandas
-numpy
-matplotlib
-scikit-learn
-keras
-plotly
+pandas 
+random
 pyodbc
-twilio.rest
+twilio.rest 
