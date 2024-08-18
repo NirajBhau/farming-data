@@ -1,4 +1,4 @@
-streamlit
-pandas 
-pyodbc
-twilio
+streamlit==1.37.1
+pandas==2.2.2
+pyodbc==4.0.35
+twilio==7.18.0
