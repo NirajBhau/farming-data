@@ -2,4 +2,4 @@ streamlit
 pandas 
 random
 pyodbc
-twilio.rest 
+twilio
